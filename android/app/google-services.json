@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421467771201",
+    "project_id": "thuc-hanh-tcm",
+    "storage_bucket": "thuc-hanh-tcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421467771201:android:ce3ab01dcf1e3f3b4bd1c0",
+        "android_client_info": {
+          "package_name": "com.example.bai_tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421467771201-q9u2o96bhordio9jc4vcg5thkldougn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgzF2roaQOSFTk2Olcz7vPWfAuV8PEvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421467771201-q9u2o96bhordio9jc4vcg5thkldougn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
